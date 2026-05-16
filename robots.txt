@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carelesswhisp.github.io/reference-8fp3tl/sitemap.xml
